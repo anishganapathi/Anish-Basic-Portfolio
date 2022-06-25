@@ -3,7 +3,7 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-   
+
 }
 
 h1{
@@ -13,7 +13,7 @@ h1{
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
 }
-h2{   
+h2{
     color: #66BFBF;
     font-family: cursive;
     font-size: 2.5rem;
@@ -50,7 +50,7 @@ hr{
 
 .touch{
     width: 40%;
-    margin: 40px auto 60px; 
+    margin: 40px auto 60px;
 }
 .copyright{
     columns: #EAf6f6;
@@ -77,8 +77,8 @@ hr{
     line-height: 2;
 }
 .profile-img{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
   }
 .interest-img{
@@ -91,7 +91,7 @@ hr{
     width: 150px;
     height: 150px;
     border: radius 50%;
-   
+
 }
 
 .top-cloud{
@@ -121,7 +121,7 @@ hr{
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
-  
+
   .btn:hover {
     background: #30e3cb;
     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
@@ -131,4 +131,3 @@ hr{
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
-
